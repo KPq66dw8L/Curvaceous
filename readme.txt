@@ -1,3 +1,6 @@
+Handy HTML trick:
+section*8>(h1>{Nice Curves})+p>lorem
+
 Bon et simple wave (etc) svg (red1):
 https://www.shapedivider.app/
 
